@@ -49,4 +49,4 @@ You can run the available specs like this:
 
 ## Contributors
 
-- [AkitaOnRails](https://github.com/akitaonrails) AkitaOnRails - creator, maintainer
+- [AkitaOnRails](https://github.com/akitaonrails) - creator, maintainer
